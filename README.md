@@ -1,10 +1,16 @@
-------CRUD foi desenvolvido com Javascript e ReactJS-------
+#### CRUD COM JS E REACTJS
+-----
 
-Passo a Passo para resolução do projeto no navegador:
+##### REQUISITOS: Git, Nodejs e Npm
 
-OBS: Precisa do NodeJS instalado para execução do React.
+<p>Guia de instalação do projeto</p>
 
-- Abrir o arquivo no editor de código; 
-- Abrir o terminal; 
-- No terminal digitar "yarn" (para instalar o yarn) e após o carregamento digitar "yarn dev" (para gerar o link);
-- Abrir o link gerado;
+1. Abrir a pasta na qual sera baixado o projeto
+2. Rodar na pasta *git clone 'URL do projeto'*
+3. Entrar na pasta do projeto
+4. instalar as dependências com *npm install*
+5. Rodar o projeto com *npm run dev*
+6. Acessar a URL fornecida pelo terminal
+
+
+
